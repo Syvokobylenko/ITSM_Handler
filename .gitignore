@@ -1,0 +1,6 @@
+geckodriver
+geckodriver.log
+GNOME.db
+GNOME.db-journal
+__pycache__/*
+templates/tester_audit_row.html
